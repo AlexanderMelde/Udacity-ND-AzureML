@@ -5,4 +5,6 @@ _In this program, students will enhance their skills by building and deploying s
 
 ## Repo Overview
 - [Project 1: Optimizing an ML Pipeline in Azure](project-01) create and optimize an ML pipeline by using both HyperDrive and AutoML, then compare the results.
+- [Project 2: Operationalizing Machine Learning](project-02) configure and deploy a cloud-based machine learning production model using Azure, then consume it.
+
 
