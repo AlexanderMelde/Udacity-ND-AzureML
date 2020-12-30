@@ -1,0 +1,8 @@
+azureml-core
+azureml-dataprep
+azureml-mlflow
+azureml-widgets
+numpy
+pandas
+matplotlib
+scikit-learn

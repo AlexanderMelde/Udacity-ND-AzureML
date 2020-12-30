@@ -12,8 +12,12 @@ In this project, we configure and deploy a cloud-based machine learning producti
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
+A detailed log of all executed steps and responses can be seen in the notebook [udacity-project.ipynb](udacity-project.ipynb).
+
+
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+ 
