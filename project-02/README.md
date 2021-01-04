@@ -5,6 +5,7 @@
 This project is part of the [Udacity Azure ML Nanodegree](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333).
 In this project, we configure and deploy a cloud-based machine learning production model using Azure and then consume it
 
+Parts of the code are taken from the [official repository for this project](https://github.com/udacity/nd00333_AZMLND_C2/tree/master/starter_files).
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
